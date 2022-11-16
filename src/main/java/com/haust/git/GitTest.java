@@ -2,7 +2,7 @@ package com.haust.git;
 
 /**
  * Date:2022/11/16
- * Author£ºSunshine
+ * AuthorÂ£ÂºSunshine
  * Description:
  */
 public class GitTest {
@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("master,test!");
         System.out.println("hot fix,test!");
         System.out.println("push test!");
+        System.out.println("pull test!");
+        
     }
 }
